@@ -28,7 +28,7 @@ The repository contains the complete CAD model, project presentation and design 
 ## Included Files
 
 - Complete CAD model
+- Technical Drawings
 - Project presentation
-- Project documentation
 - Assembly Images
 
