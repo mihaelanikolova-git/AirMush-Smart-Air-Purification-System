@@ -9,6 +9,10 @@ Our challenge focused on the deteriorating air quality in Turin, a city that fre
 
 As part of the team, I was responsible for the CAD design and mechanical development of the proposed device. The concept was modeled in SolidWorks, allowing the team to visualize the design, communicate the proposed solution, and present a functional engineering concept during the final evaluation. Furthermore, an App design was adapted, in order to motivate citizens and track and connect devices around the city.
 
+The complete project (parts, assemblies, technical drawings, presentation, etc.) can be downloaded here in a compact format:
+
+https://drive.google.com/drive/folders/1xVGDawo6GI-STJfWn1xZbIPBWPfdyTuk?usp=sharing
+
 The repository contains the complete CAD model, project presentation and design images.
 
 ## Project Objectives
